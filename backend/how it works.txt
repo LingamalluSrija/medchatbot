@@ -1,0 +1,5 @@
+D:\srija\medical-chatbot\medical-chatbot\backend>node index.js
+🚀 Backend running on http://localhost:5000
+
+D:\srija\medical-chatbot\medical-chatbot>npm start
+
